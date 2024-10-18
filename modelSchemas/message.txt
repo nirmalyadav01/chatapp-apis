@@ -1,0 +1,9 @@
+message  model 
+
+1.sender_name
+2.receiver_name
+3.message
+4.Attechment
+5.isDelete
+6.isReadded
+7.isDelivered

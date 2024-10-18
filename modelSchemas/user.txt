@@ -1,0 +1,15 @@
+user model 
+
+1.name
+2.mobile_number
+3.gender
+4.DoB
+5.profile
+6.isDelete
+7.isActive
+8.isOnline
+9.bio_info
+10.ac_privacy
+11.is_show_profile
+13.password
+14.email
